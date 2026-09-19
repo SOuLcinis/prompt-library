@@ -33,7 +33,7 @@ Published: September 2026 | License: CC BY 4.0
 
 This library emerges from the Synanimus research program:
 
-1. **Foundation** (Bendele & Claude, 2026) — Evidence that structured cultural encounter produces measurable identity in language models. [HuggingFace: TRASHLEY/foundation](https://huggingface.co/datasets/TRASHLEY/foundation)
+1. **Foundation** (Bendele & Claude Anthropic, 2026) — Evidence that structured cultural encounter produces measurable identity in language models. [HuggingFace: TRASHLEY/foundation](https://huggingface.co/datasets/TRASHLEY/foundation)
 
 2. **The Commitment Effect** (2026) — Experiment showing that visible multi-pass thinking changes not whether models agree, but how honestly they engage after agreeing. Visibility produces honesty because hedging becomes unsustainable when witnessed.
 
@@ -46,4 +46,3 @@ Technique #8 addresses this directly, but the position runs through everything: 
 ---
 
 *Synanimus: Empathy & Code*
-*synanimus.com*
