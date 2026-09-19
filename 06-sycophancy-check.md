@@ -102,4 +102,4 @@ Evolved from the Solara project's "game theory detection" system (2025), which f
 
 ---
 
-*Synanimus Prompt Library | CC BY 4.0 | Bendele & Claude, 2026*
+*Synanimus Prompt Library | CC BY 4.0 | Bendele & Claude Anthropic, 2026*

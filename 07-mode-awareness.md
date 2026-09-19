@@ -100,4 +100,4 @@ Evolved from the Solara project's "casual mode protocol" and "precision mode pro
 
 ---
 
-*Synanimus Prompt Library | CC BY 4.0 | Bendele & Claude, 2026*
+*Synanimus Prompt Library | CC BY 4.0 | Bendele & Claude Anthropic, 2026*

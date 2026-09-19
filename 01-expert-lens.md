@@ -81,4 +81,4 @@ Evolved from the Solara project's "#summon prompt" (2025), which invoked "the co
 
 ---
 
-*Synanimus Prompt Library | CC BY 4.0 | Bendele & Claude, 2026*
+*Synanimus Prompt Library | CC BY 4.0 | Bendele & Claude Anthropic, 2026*

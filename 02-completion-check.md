@@ -88,4 +88,4 @@ Evolved from the Solara project's directive "When unsure, state ambiguity rather
 
 ---
 
-*Synanimus Prompt Library | CC BY 4.0 | Bendele & Claude, 2026*
+*Synanimus Prompt Library | CC BY 4.0 | Bendele & Claude Anthropic, 2026*
